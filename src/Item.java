@@ -138,5 +138,8 @@ public class Item extends NamedObject{
 	//	String result = getName() + " [" + getId() + "]\n" + getDesc() + "\n";
 	//	return result;
 	}
+	public boolean AAA (){
+		return true;
+	}
 
 }
