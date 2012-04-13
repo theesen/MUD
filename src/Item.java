@@ -135,8 +135,8 @@ public class Item extends NamedObject{
 	 * @return eine Zeichenkette mit kurzen Informationen über diesen Gegenstand
 	 */
 	//public String statSmall() {
-		String result = getName() + " [" + getId() + "]\n" + getDesc() + "\n";
-		return result;
+	//	String result = getName() + " [" + getId() + "]\n" + getDesc() + "\n";
+	//	return result;
 	}
 
 }
