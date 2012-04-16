@@ -22,16 +22,16 @@ public class Key extends Item{
 	 * Die Methode soll testen ob der Schlüssel zur Tür (@param door) passt.
 	 */
 	public boolean suits(){
-		getDoor()
 		
-		return ;
+		
+		return false;
 	}
 	/**
 	 * Soll angeben ob der SChlüssel beim Verwenden zerstört wurde.
 	 * @return
 	 */
 	public boolean turn (){
-		
+		return true;
 	}
 
 }
